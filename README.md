@@ -1,7 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
-
+TO Read CSV file
 ## ALGORITHM:
 ### Step 1:
 ### Step 2:
